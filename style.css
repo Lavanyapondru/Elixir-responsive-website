@@ -1,0 +1,187 @@
+.nav {
+   padding-right: 40px !important;
+}
+
+.nav-list {
+    display: inline !important;
+}
+
+.left {
+    padding-left: 320px !important;
+}
+
+.navbar-brand {
+      padding-right: 80px !important;
+
+}
+.navbar {
+    background-color: whitesmoke !important;
+}
+
+
+.slide1 {
+    position: relative !important;
+}
+
+.slide2 {
+    position: absolute !important;
+    top: 350px;
+    left: 150px;
+}
+
+.slide3 {
+    position: relative !important;
+}
+
+.slide4 {
+    position: absolute !important;
+    top: 350px;
+    left: 150px;
+}
+
+.slide5 {
+    position: relative !important;
+}
+
+.slide6 {
+    position: absolute !important;
+    top: 350px !important;
+    left: 150px !important;
+}
+
+.icon {
+    padding: 30px 35px !important;
+    border-radius: 50% !important;
+    background-color: whitesmoke !important;
+}
+
+.one {
+    position: relative !important;
+}
+
+.two {
+    position: absolute !important;
+    top: 50% !important;
+    left: 50% !important;
+}
+
+.vidimg {
+    height: 100vh !important;
+}
+
+.text:hover {
+    text-decoration: underline !important;
+}
+
+.bgclrw {
+    background-color: whitesmoke !important;
+}
+
+.side1 {
+    background-color: white !important;
+}
+
+.side2 {
+    background-color: white !important;
+}
+
+.side3 {
+    background-color: white !important;
+}
+
+.bgclrn {
+    background-color: darkslategrey !important;
+}
+
+.sat {
+    padding-bottom: 150px !important;
+    padding-top: 150px !important;
+}
+
+.sect1 {
+    margin-right: -12px !important;
+}
+
+.sect2 {
+    margin-left: -24px !important;
+}
+
+.sect3 {
+    margin-right: -12px !important;
+}
+
+.portrait-1 {
+     border: 4px solid whitesmoke;
+}
+
+.portrait-2 {
+     border: 4px solid whitesmoke;
+}
+
+.portrait-3 {
+     border: 4px solid whitesmoke;
+}
+
+.portrait-4 {
+     border: 4px solid whitesmoke;
+}
+
+.portrait-5 {
+     border: 4px solid whitesmoke;
+}
+
+.portrait-6 {
+     border: 4px solid whitesmoke;
+}
+
+.bgimg {
+    background-image: url(background-image.jpg);
+    background-position: center !important;
+    background-size: cover !important;
+    height: 685px !important;
+}
+
+.Main1{
+    padding-top: 200px !important;
+}
+
+.checkicon {
+    width: 70px;
+}
+
+.caroimg1 {
+    margin-left: px !important;
+} 
+
+.caroimg2 {
+    margin-left: px !important;
+} 
+
+.caroimg3 {
+    margin-left: px !important;
+} 
+
+.bgclrws {
+    background-color: whitesmoke;
+}
+
+.last1{
+    background-color: ghostwhite;
+}
+
+.last2{
+    background-color: ghostwhite;
+}
+
+.last3{
+    background-color: ghostwhite;
+}
+
+.bgclrgw {
+    background-color: white;
+}
+
+.bgclrblack {
+    background-color: rgb(12, 12, 20);
+}
+
