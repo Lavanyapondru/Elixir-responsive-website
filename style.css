@@ -77,7 +77,10 @@
 .side1 {
     background-color: white !important;
 }
-
+.service:hover {
+    text-decoration: underline !important;
+    color: blueviolet !important;
+}
 .side2 {
     background-color: white !important;
 }
@@ -107,6 +110,10 @@
     margin-right: -12px !important;
 }
 
+.consult {
+    margin: 20px;
+}
+
 .portrait-1 {
      border: 4px solid whitesmoke;
 }
@@ -132,7 +139,7 @@
 }
 
 .bgimg {
-    background-image: url(background-image.jpg);
+    background-image: url(images/background-image.jpg);
     background-position: center !important;
     background-size: cover !important;
     height: 685px !important;
@@ -159,26 +166,96 @@
 } 
 
 .bgclrws {
-    background-color: whitesmoke;
+    background-color: whitesmoke !important;
 }
 
 .last1{
-    background-color: ghostwhite;
+    background-color: ghostwhite !important;
 }
 
 .last2{
-    background-color: ghostwhite;
+    background-color: ghostwhite !important;
 }
 
 .last3{
-    background-color: ghostwhite;
+    background-color: ghostwhite !important;
 }
 
 .bgclrgw {
-    background-color: white;
+    background-color: white !important;
 }
 
 .bgclrblack {
-    background-color: rgb(12, 12, 20);
+    background-color: rgb(12, 12, 20) !important;
 }
 
+@media screen and (min-width:320px) and (max-width:460px) {
+    .slide2{
+        top:0 !important;
+        left: 0 !important;
+        position: absolute !important;
+        margin-left: 10px;
+    }
+    .slide2 h1 {
+        font-size: 30px;
+    }
+    .slide2 p {
+        font-size: 10px;
+    }
+    .slide1 {
+        position: relative !important;
+    }
+    .slide4{
+        top:0 !important;
+        left: 0 !important;
+        position: absolute !important;
+        margin-left: 10px;
+    }
+    .slide4 h1 {
+        font-size: 30px;
+    }
+    .slide4 p {
+        font-size: 10px;
+    }
+    .slide3 {
+        position: relative !important;
+    }
+    .slide6{
+        top:0 !important;
+        left: 0 !important;
+        position: absolute !important;
+        margin-left: 10px;
+    }
+    .slide6 h1 {
+        font-size: 30px;
+    }
+    .slide6 p {
+        font-size: 10px;
+    }
+    .slide5 {
+        position: relative !important;
+    }
+    .company {
+        margin-left: 50px;
+    }
+    .portrait-1{
+        margin-top: 10px !important;
+    }
+    .portrait-2{
+        margin-top: 10px !important;
+    }
+    .portrait-3{
+        margin-top: 10px !important;
+    }
+    .portrait-4{
+        margin-top: 10px !important;
+    }
+    .portrait-5{
+        margin-top: 10px !important;
+    }
+    .portrait-6{
+        margin-top: 10px !important;
+    }
+    
+
+}
