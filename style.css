@@ -12,8 +12,11 @@
 
 .navbar-brand {
       padding-right: 80px !important;
-
 }
+.navbar-collapse {
+    font-weight: bold !important;
+}
+
 .navbar {
     background-color: whitesmoke !important;
 }
